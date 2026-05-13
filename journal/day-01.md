@@ -8,3 +8,6 @@
 - Git + GitHub SSH (over 443) 配置
 
 明日：开始阶段 1 - 数学 + Python 基础
+
+## 测试
+- 验证 branch + PR 流程
